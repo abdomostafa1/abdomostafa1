@@ -2,7 +2,6 @@
 {
   "Name"     : "Abdo Mostafa",
   "Degree"   : "BSc of CS",
-  "job title"   : "Android Developer",
   "Location" : "Egypt",
   "Qoute"    : "Each line you write is a step toward innovation."
 }
